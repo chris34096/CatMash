@@ -1,0 +1,19 @@
+{
+  "name": "catmash",
+  "version": "1.0.0",
+  "description": "An technical test for L'Atelier",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC"
+}
